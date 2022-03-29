@@ -5,7 +5,7 @@ namespace MulqiGaming64\ServerInfo;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat as C;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\Server;
 
 use pocketmine\command\ConsoleCommandSender;
