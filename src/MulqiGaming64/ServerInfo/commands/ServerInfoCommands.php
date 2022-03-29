@@ -7,11 +7,10 @@ use pocketmine\math\Vector3;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\command\ConsoleCommandSender;
-use pocketmine\command\PluginCommand;
 use pocketmine\utils\TextFormat as C;
 use MulqiGaming64\ServerInfo\ServerInfo;
 
-class ServerInfoCommands extends PluginCommand {
+class ServerInfoCommands extends Command {
 	
 	/** @var ServerInfo $plugin */
 	private $plugin;
