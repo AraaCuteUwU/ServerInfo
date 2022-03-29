@@ -2,7 +2,7 @@
 
 namespace MulqiGaming64\ServerInfo\commands;
 
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\math\Vector3;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
